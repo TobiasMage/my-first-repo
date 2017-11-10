@@ -1,12 +1,8 @@
-# This is a large heading
+# Test Page
 
-## This is a smaller heading
+## Personal Page
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
-
+It is only a **test**,
 - This is
 - an unordered
 - list
@@ -25,4 +21,3 @@ of code
 
 Here is how you make [a link](https://www.wikipedia.org/).
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
